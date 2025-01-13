@@ -378,12 +378,6 @@
 
 /* SKILLS SECTION */
 
-.section {
-  color: var(--default-color);
-  background-color: var(--background-color);
-  padding: 100px 0;
-  overflow: clip;
-}
 
 #skills {
   padding: 50px 20px;
